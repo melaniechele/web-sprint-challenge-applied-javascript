@@ -27,15 +27,16 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
-
+DOM means document object mode which is a =representation of the html and css into the browser
 2. What is an event?
-
+event is the javascript interaction with html
 3. What is an event listener?
-
+precision in js that waits for an event to occur. Function in js that takes the event to listen for.
 4. Why would we convert a NodeList into an Array?
-
+you can use any array elemnts
+nodelist is an array like object but it doesnt come with the build in array methods like an actual array has access to, and by chnaging it into an array you can manipulate the elements in it.
 5. What is a component?
-
+function in js that creates html elements and that can be added to the DOM.
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
